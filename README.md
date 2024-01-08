@@ -1,6 +1,6 @@
-# Çizgiflix Desktop for Windows
+# Çizgiflix Desktop windows için
 
-[Click here to see the English version.](/)
+[Click here to see the English version.](https://github.com/cizg/cizgiflix-desktop/blob/main/README.en.md)
 
 -------
 
