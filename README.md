@@ -1,4 +1,4 @@
-# Çizgiflix Desktop windows için
+# Çizgiflix Masaüstü windows için
 
 [Click here to see the English version.](https://github.com/cizg/cizgiflix-desktop/blob/main/README.en.md)
 
