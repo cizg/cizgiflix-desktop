@@ -1,0 +1,24 @@
+body{
+    background:#0c0c0c;
+}
+a {
+    text-decoration: none; /* Link altındaki çizgiyi kaldırma */
+    color: #dd3333; /* Link rengini istediğiniz renk olarak ayarlama (örnek: kırmızı) */
+}
+img{
+    position: absolute;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.4);
+    font-family: arial;
+}
+h1{
+    position: absolute;
+    top:60%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #dbdbdb;
+}
