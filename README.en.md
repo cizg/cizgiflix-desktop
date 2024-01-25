@@ -13,7 +13,7 @@
 
 ## Setup
 
-[By clicking here](https://cizgiflix.com/Çizgiflix.exe) download the file and open it. Çizgiflix will install itself and open automatically.
+[By clicking here](https://desktop.cizgiflix.com/) download the file and open it. Çizgiflix will install itself and open automatically.
 
 ## Development
 
