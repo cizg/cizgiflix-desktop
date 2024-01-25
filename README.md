@@ -13,7 +13,7 @@
 
 ## Kurulum
 
-[Buraya tıklayarak](https://cizgiflix.com/Çizgiflix.exe) dosyayı indirin ve açın. Çizgiflix kendini kuracak, otomatik olarak açılacaktır.
+[Buraya tıklayarak](https://desktop.cizgiflix.com/) dosyayı indirin ve açın. Çizgiflix kendini kuracak, otomatik olarak açılacaktır.
 
 ## Geliştirme
 
